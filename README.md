@@ -72,7 +72,7 @@ The code below saves the file to the home directory of this crawler. You can cha
 ```
 
 ## Author
-⋅⋅* Jerome Gaditano
+  * Jerome Gaditano
 
 ## Acknowledgements
-⋅⋅* Thanks to *jyjoryi* for his [repo](https://github.com/jyjoryi/WQD7005_DataMining) on using scrapy. 
+  * Thanks to *jyjoryi* for his [repo](https://github.com/jyjoryi/WQD7005_DataMining) on using scrapy. 
